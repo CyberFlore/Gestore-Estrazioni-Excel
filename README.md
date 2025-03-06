@@ -1,15 +1,15 @@
 
-# ExcelTemplateManager 📊
+# Gestore Estrazioni Excel 📊
 
 <div align="center">
-  <img src="generated-icon.png" alt="ExcelTemplateManager Logo" width="120"/>
+  <img src="generated-icon.png" alt="Gestore Estrazioni Excel Logo" width="120"/>
   <h3>Gestione avanzata di template Excel</h3>
   <p>Riorganizza, rinomina e applica validazioni alle colonne dei tuoi fogli Excel</p>
 </div>
 
 ## 🌟 Panoramica
 
-ExcelTemplateManager è un'applicazione Windows che semplifica la gestione e la trasformazione di fogli Excel. Consente di:
+Gestore Estrazioni Excel è un'applicazione Windows che semplifica la gestione e la trasformazione di fogli Excel. Consente di:
 
 - **Riorganizzare** l'ordine delle colonne con semplici operazioni di drag & drop
 - **Rinominare** le intestazioni delle colonne per una migliore leggibilità
@@ -49,7 +49,7 @@ ExcelTemplateManager è un'applicazione Windows che semplifica la gestione e la 
 
 ### Download diretto
 1. Scarica l'ultima versione dell'applicazione dalla [sezione Releases](https://github.com/CyberFlore/Gestore-Estrazioni-Excel/releases)
-2. Esegui il file `ExcelTemplateManager.exe` (non richiede installazione)
+2. Esegui il file `Gestore Estrazioni Excel.exe` (non richiede installazione)
 
 ### Compilazione da sorgente
 1. Clona il repository
