@@ -48,7 +48,7 @@ ExcelTemplateManager è un'applicazione Windows che semplifica la gestione e la 
 ## 📦 Installazione
 
 ### Download diretto
-1. Scarica l'ultima versione dell'applicazione dalla [sezione Releases](https://github.com/username/ExcelTemplateManager/releases)
+1. Scarica l'ultima versione dell'applicazione dalla [sezione Releases](https://github.com/CyberFlore/Gestore-Estrazioni-Excel/releases)
 2. Esegui il file `ExcelTemplateManager.exe` (non richiede installazione)
 
 ### Compilazione da sorgente
