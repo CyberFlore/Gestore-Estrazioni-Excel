@@ -18,14 +18,15 @@ ExcelTemplateManager è un'applicazione Windows che semplifica la gestione e la 
 - **Salvare e riutilizzare template** per applicarli a fogli diversi
 
 ## 🖥️ Screenshot
+![image](https://github.com/user-attachments/assets/54cab3d7-c0fa-4ee7-bb08-5fdef3ca7312)
+![image](https://github.com/user-attachments/assets/2c71fa25-1eef-43b6-9d98-4c59036428b3)
+![image](https://github.com/user-attachments/assets/65e5439e-fb7c-45cf-827b-2862ba7e262f)
+
+
 
 <div align="center">
   <p><i>Interfaccia principale di ExcelTemplateManager</i></p>
-  ![image](https://github.com/user-attachments/assets/b5db44af-1a56-4813-87c0-9193b53a18da)
-  ![image](https://github.com/user-attachments/assets/47404e23-ce43-4d70-ba6d-d7c93587bf6f)
-  ![image](https://github.com/user-attachments/assets/ce70ca94-06e9-42f5-af1e-326aed038efb)
-  ![image](https://github.com/user-attachments/assets/b23fb33f-b0cd-4c1b-bded-e4203361cc99)
-</div>
+
 
 ## ✨ Funzionalità principali
 
