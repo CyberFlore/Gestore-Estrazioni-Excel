@@ -21,10 +21,10 @@ ExcelTemplateManager è un'applicazione Windows che semplifica la gestione e la 
 
 <div align="center">
   <p><i>Interfaccia principale di ExcelTemplateManager</i></p>
-  <p>![image](https://github.com/user-attachments/assets/b5db44af-1a56-4813-87c0-9193b53a18da)</p>
-  <p>![image](https://github.com/user-attachments/assets/47404e23-ce43-4d70-ba6d-d7c93587bf6f)</p>
-  <p>![image](https://github.com/user-attachments/assets/ce70ca94-06e9-42f5-af1e-326aed038efb)</p>
-  <p>![image](https://github.com/user-attachments/assets/b23fb33f-b0cd-4c1b-bded-e4203361cc99)</p>
+  ![image](https://github.com/user-attachments/assets/b5db44af-1a56-4813-87c0-9193b53a18da)
+  ![image](https://github.com/user-attachments/assets/47404e23-ce43-4d70-ba6d-d7c93587bf6f)
+  ![image](https://github.com/user-attachments/assets/ce70ca94-06e9-42f5-af1e-326aed038efb)
+  ![image](https://github.com/user-attachments/assets/b23fb33f-b0cd-4c1b-bded-e4203361cc99)
 </div>
 
 ## ✨ Funzionalità principali
