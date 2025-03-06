@@ -24,8 +24,6 @@ ExcelTemplateManager è un'applicazione Windows che semplifica la gestione e la 
 
 
 
-<div align="center">
-  <p><i>Interfaccia principale di ExcelTemplateManager</i></p>
 
 
 ## ✨ Funzionalità principali
